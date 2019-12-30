@@ -4,4 +4,7 @@ public class niubi {
     public void niubi() {
         System.out.println("xiangge weiwu");
     }
+    public void buniubi() {
+        System.out.println("sdfads");
+    }
 }
