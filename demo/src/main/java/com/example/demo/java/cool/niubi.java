@@ -6,5 +6,6 @@ public class niubi {
     }
     public void buniubi() {
         System.out.println("sdfads");
-    }
-}
+        System.out.println("asdas");
+        }
+        }
