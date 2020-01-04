@@ -5,6 +5,7 @@ public class niubi {
         System.out.println("xiangge weiwu");
     }
     public void buniubi() {
+        System.out.println("aabbc");
         System.out.println("sdfads");
         System.out.println("asdas");
         }
