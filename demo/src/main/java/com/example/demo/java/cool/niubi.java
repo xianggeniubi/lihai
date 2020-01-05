@@ -11,5 +11,6 @@ public class niubi {
         System.out.println("asdass");
         String data = "aa";
         String ASV = "aa";
+        String aa = "aa";
     }
 }
