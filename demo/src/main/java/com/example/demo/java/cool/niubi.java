@@ -9,8 +9,5 @@ public class niubi {
         System.out.println("aabbc");
         System.out.println("sdfads");
         System.out.println("asdass");
-        String data = "aa";
-        String ASV = "aa";
-        String aa = "aa";
     }
 }
