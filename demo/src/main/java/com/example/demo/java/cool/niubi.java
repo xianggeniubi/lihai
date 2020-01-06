@@ -7,7 +7,8 @@ public class niubi {
 
     public void buniubi() {
         System.out.println("aabbc");
-        System.out.println("sdfads");
+        System.out.println("sdfadscc");
         System.out.println("asdass");
+        String aa = "aa";
     }
 }
